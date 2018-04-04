@@ -1,0 +1,12 @@
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubClient\obj\Debug\PubSubClient.Client.resources
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubClient\obj\Debug\PubSubClient.Properties.Resources.resources
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubClient\obj\Debug\PubSubClient.csproj.GenerateResource.Cache
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubClient\bin\Debug\PubSubClient.exe.config
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubClient\bin\Debug\PubSubClient.exe
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubClient\bin\Debug\PubSubClient.pdb
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubClient\obj\Debug\PubSubClient.exe
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubClient\obj\Debug\PubSubClient.pdb
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubClient\obj\Debug\PubSubClient.csprojResolveAssemblyReference.cache
+C:\Testes\WCFPubSub\WCFPubSub\PubSubClient\bin\Debug\PubSubClient.exe.config
+C:\Testes\WCFPubSub\WCFPubSub\PubSubClient\obj\Debug\PubSubClient.exe
+C:\Testes\WCFPubSub\WCFPubSub\PubSubClient\obj\Debug\PubSubClient.pdb

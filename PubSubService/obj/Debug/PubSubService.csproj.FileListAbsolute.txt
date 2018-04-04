@@ -1,0 +1,10 @@
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubService\bin\PubSubService.dll
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubService\bin\PubSubService.pdb
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubService\obj\Debug\PubSubService.dll
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubService\obj\Debug\PubSubService.pdb
+D:\Projetos\WCFPubSub\WCFPubSub\PubSubService\obj\Debug\PubSubService.csprojResolveAssemblyReference.cache
+C:\Testes\WCFPubSub\WCFPubSub\PubSubService\bin\PubSubService.dll
+C:\Testes\WCFPubSub\WCFPubSub\PubSubService\bin\PubSubService.pdb
+C:\Testes\WCFPubSub\WCFPubSub\PubSubService\obj\Debug\PubSubService.csprojResolveAssemblyReference.cache
+C:\Testes\WCFPubSub\WCFPubSub\PubSubService\obj\Debug\PubSubService.dll
+C:\Testes\WCFPubSub\WCFPubSub\PubSubService\obj\Debug\PubSubService.pdb
